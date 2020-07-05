@@ -1,2 +1,2 @@
 # MyPortfolio
-[Обычная ссылка в строке](https://github.com/Danilsda78/MyPortfolio/tree/master/Nava)
+[Nava](https://danilsda78.github.io/MyPortfolio/Nava/index.html)
